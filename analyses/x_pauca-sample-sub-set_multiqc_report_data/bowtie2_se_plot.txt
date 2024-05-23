@@ -1,0 +1,4 @@
+Sample	SE multimapped	SE not aligned
+x_pauca_bowtie_merged2Fuso	2	8
+x_pauca_bowtie_merged2PhiX	0	10
+x_pauca_bowtie_merged2SARS-CoV-2	0	10

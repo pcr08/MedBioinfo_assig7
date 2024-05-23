@@ -1,0 +1,304 @@
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913302_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913302_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913302.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913302.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913302.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913302.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913302.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   6
+[FLASH]     Uncombined pairs: 4
+[FLASH]     Percent combined: 60.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.003 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913331_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913331_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913331.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913331.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913331.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913331.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913331.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   10
+[FLASH]     Uncombined pairs: 0
+[FLASH]     Percent combined: 100.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.003 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913304_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913304_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913304.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913304.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913304.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913304.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913304.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   8
+[FLASH]     Uncombined pairs: 2
+[FLASH]     Percent combined: 80.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.005 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913333_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913333_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913333.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913333.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913333.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913333.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913333.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   10
+[FLASH]     Uncombined pairs: 0
+[FLASH]     Percent combined: 100.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.005 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913107_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913107_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913107.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913107.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913107.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913107.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913107.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   7
+[FLASH]     Uncombined pairs: 3
+[FLASH]     Percent combined: 70.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.003 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913203_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913203_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913203.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913203.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913203.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913203.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913203.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   7
+[FLASH]     Uncombined pairs: 3
+[FLASH]     Percent combined: 70.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.004 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913109_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913109_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913109.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913109.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913109.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913109.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913109.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   7
+[FLASH]     Uncombined pairs: 3
+[FLASH]     Percent combined: 70.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.003 seconds elapsed
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913205_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/sra_fastq/ERR6913205_2.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.extendedFrags.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.notCombined_1.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.notCombined_2.fastq.gz
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.hist
+[FLASH]     /proj/applied_bioinformatics/users/x_pauca/Assig7/MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           150
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      2
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33, gzip
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 2 combiner threads
+[FLASH] Processed 10 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      10
+[FLASH]     Combined pairs:   10
+[FLASH]     Uncombined pairs: 0
+[FLASH]     Percent combined: 100.00%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.009 seconds elapsed

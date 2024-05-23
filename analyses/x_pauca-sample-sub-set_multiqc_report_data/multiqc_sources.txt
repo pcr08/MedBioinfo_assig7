@@ -1,0 +1,21 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	x_pauca_bowtie_merged2SARS-CoV-2	/mnt/MedBioinfo_assig7/analyses/bowtie/x_pauca_bowtie_merged2SARS-CoV-2.log
+Bowtie 2 / HiSAT2	all_sections	x_pauca_bowtie_merged2Fuso	/mnt/MedBioinfo_assig7/analyses/bowtie/x_pauca_bowtie_merged2Fuso.log
+Bowtie 2 / HiSAT2	all_sections	x_pauca_bowtie_merged2PhiX	/mnt/MedBioinfo_assig7/analyses/bowtie/x_pauca_bowtie_merged2PhiX.log
+FastQC	all_sections	ERR6913331_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913331_2_fastqc.zip
+FastQC	all_sections	ERR6913205_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913205_2_fastqc.zip
+FastQC	all_sections	ERR6913302_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913302_1_fastqc.zip
+FastQC	all_sections	ERR6913203_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913203_2_fastqc.zip
+FastQC	all_sections	ERR6913304_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913304_1_fastqc.zip
+FastQC	all_sections	ERR6913107_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913107_2_fastqc.zip
+FastQC	all_sections	ERR6913304_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913304_2_fastqc.zip
+FastQC	all_sections	ERR6913109_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913109_1_fastqc.zip
+FastQC	all_sections	ERR6913333_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913333_1_fastqc.zip
+FastQC	all_sections	ERR6913333_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913333_2_fastqc.zip
+FastQC	all_sections	ERR6913109_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913109_2_fastqc.zip
+FastQC	all_sections	ERR6913107_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913107_1_fastqc.zip
+FastQC	all_sections	ERR6913331_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913331_1_fastqc.zip
+FastQC	all_sections	ERR6913203_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913203_1_fastqc.zip
+FastQC	all_sections	ERR6913205_1	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913205_1_fastqc.zip
+FastQC	all_sections	ERR6913302_2	/mnt/MedBioinfo_assig7/analyses/fastqc/ERR6913302_2_fastqc.zip
+FLASh	all_sections	x_pauca_flash	/mnt/MedBioinfo_assig7/analyses/x_pauca_flash.log

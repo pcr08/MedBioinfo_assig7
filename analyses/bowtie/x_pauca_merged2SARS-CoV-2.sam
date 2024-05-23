@@ -1,0 +1,3 @@
+@HD	VN:1.5	SO:unsorted	GO:query
+@SQ	SN:NC_045512.2	LN:29903
+@PG	ID:bowtie2	PN:bowtie2	VN:2.5.3	CL:"/usr/local/bin/bowtie2-2.5.3-linux-x86_64/bowtie2-align-s --wrapper basic-0 -x ./MedBioinfo_assig7/data/bowtie2_DBs/SARS-CoV-2_bowtie2_DB --threads 8 --passthrough -U ./MedBioinfo_assig7/data/merged_pairs/ERR6913205.flash.extendedFrags.fastq.gz"
